@@ -183,7 +183,7 @@ Systems Fundamentals (SF)システムの基本
 
 # Architecture and Organization (AR) 
 ## AR/Digital Logic and Digital Systems
-###　あるといい知識
+### あるといい知識
  
 -	Overview and history of computer architecture  
 -	Combinational vs sequential logic/field programmable gate arrays (FPGAs)  
